@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "591f0a7e1b0a999e115f8c33e0a830a119ac625937f0ed943a64dac87c67424e"
+            "sha256": "da2a9a42e342504744aa3e7b6ed3a5c052a7ca976239bcb7806d20f9f763c9eb"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,6 +21,14 @@
                 "sha256:0ce45920056fbbb66f52fcee7408ba6311da19f55589b2b3aab9f8af92a0e1f2"
             ],
             "version": "==0.8.0"
+        },
+        "altair": {
+            "hashes": [
+                "sha256:9abe13d88a3694857138ac61512c4f873f762f432cf82623eea4700d2a531525",
+                "sha256:bd8f42b487ffb67bdb1d2ae7970df69c0801431c9201742599525037bc8bd56d"
+            ],
+            "index": "pypi",
+            "version": "==3.2.0"
         },
         "appnope": {
             "hashes": [
@@ -733,6 +741,12 @@
                 "sha256:b694b3d9288dbd81685c5d2e7140b81365d46c29f5db4bc659de5aa6b98780f8"
             ],
             "version": "==0.4.2"
+        },
+        "toolz": {
+            "hashes": [
+                "sha256:08fdd5ef7c96480ad11c12d472de21acd32359996f69a5259299b540feba4560"
+            ],
+            "version": "==0.10.0"
         },
         "torch": {
             "hashes": [
