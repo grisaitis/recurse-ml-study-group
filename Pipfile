@@ -16,6 +16,8 @@ tensorflow = "*"
 tensorflow-probability = "*"
 statsmodels = "*"
 altair = "*"
+jupyter-contrib-nbextensions = "*"
+plotly = "==4.1.0"
 
 [requires]
 python_version = "3.7"
